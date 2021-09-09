@@ -6,6 +6,6 @@ on this GitHub Account, i will save things i learn in my Training and Internship
 
 discord: YYP#6761
 
-Developer of Ventile CLient
-Co Owner of Surge Client
- etc
+im currently learning about SQLite Databases 
+
+( coded today: 6 hours )
